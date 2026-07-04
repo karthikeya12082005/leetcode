@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karthikeya12082005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Database
+|  |
+| ------- |
+| [1158-market-analysis-i](https://github.com/karthikeya12082005/leetcode/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
