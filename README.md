@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/karthikeya12082005/leetcode/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/karthikeya12082005/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
