@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1158-market-analysis-i](https://github.com/karthikeya12082005/leetcode/tree/master/1158-market-analysis-i) |
+| [1407-top-travellers](https://github.com/karthikeya12082005/leetcode/tree/master/1407-top-travellers) |
 ## Two Pointers
 |  |
 | ------- |
