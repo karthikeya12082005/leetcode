@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/karthikeya12082005/leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/karthikeya12082005/leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/karthikeya12082005/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/karthikeya12082005/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/karthikeya12082005/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/karthikeya12082005/leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
