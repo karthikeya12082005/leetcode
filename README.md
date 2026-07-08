@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/karthikeya12082005/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/karthikeya12082005/leetcode/tree/master/0125-valid-palindrome) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karthikeya12082005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karthikeya12082005/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Database
 |  |
 | ------- |
@@ -95,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
