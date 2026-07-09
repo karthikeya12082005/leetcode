@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1288-remove-covered-intervals](https://github.com/karthikeya12082005/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikeya12082005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/karthikeya12082005/leetcode/tree/master/0200-number-of-islands) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthikeya12082005/leetcode/tree/master/0169-majority-element) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
