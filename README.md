@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/karthikeya12082005/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/karthikeya12082005/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/karthikeya12082005/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/karthikeya12082005/leetcode/tree/master/0392-is-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/karthikeya12082005/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/karthikeya12082005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/karthikeya12082005/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/karthikeya12082005/leetcode/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/karthikeya12082005/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Dynamic Programming
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthikeya12082005/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/karthikeya12082005/leetcode/tree/master/0242-valid-anagram) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
