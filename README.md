@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/karthikeya12082005/leetcode/tree/master/0274-h-index) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/karthikeya12082005/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
