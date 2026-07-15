@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
@@ -210,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Counting Sort
 |  |
 | ------- |
