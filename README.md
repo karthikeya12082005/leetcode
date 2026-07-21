@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karthikeya12082005/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/karthikeya12082005/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikeya12082005/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/karthikeya12082005/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/karthikeya12082005/leetcode/tree/master/0071-simplify-path) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/karthikeya12082005/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikeya12082005/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karthikeya12082005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/karthikeya12082005/leetcode/tree/master/0189-rotate-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/karthikeya12082005/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikeya12082005/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/karthikeya12082005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/karthikeya12082005/leetcode/tree/master/0141-linked-list-cycle) |
