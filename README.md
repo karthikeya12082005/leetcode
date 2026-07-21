@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karthikeya12082005/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/karthikeya12082005/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/karthikeya12082005/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/karthikeya12082005/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/karthikeya12082005/leetcode/tree/master/0125-valid-palindrome) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/karthikeya12082005/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karthikeya12082005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/karthikeya12082005/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/karthikeya12082005/leetcode/tree/master/0202-happy-number) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/karthikeya12082005/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/karthikeya12082005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/karthikeya12082005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/karthikeya12082005/leetcode/tree/master/0169-majority-element) |
