@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/karthikeya12082005/leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/karthikeya12082005/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karthikeya12082005/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/karthikeya12082005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/karthikeya12082005/leetcode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1260-shift-2d-grid](https://github.com/karthikeya12082005/leetcode/tree/master/1260-shift-2d-grid) |
