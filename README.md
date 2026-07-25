@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/karthikeya12082005/leetcode/tree/master/1158-market-analysis-i) |
 | [1407-top-travellers](https://github.com/karthikeya12082005/leetcode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1587-bank-account-summary-ii) |
+| [1757-recyclable-and-low-fat-products](https://github.com/karthikeya12082005/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Two Pointers
 |  |
 | ------- |
