@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/karthikeya12082005/leetcode/tree/master/0595-big-countries) |
 | [1158-market-analysis-i](https://github.com/karthikeya12082005/leetcode/tree/master/1158-market-analysis-i) |
 | [1407-top-travellers](https://github.com/karthikeya12082005/leetcode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1587-bank-account-summary-ii) |
