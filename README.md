@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/karthikeya12082005/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/karthikeya12082005/leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/karthikeya12082005/leetcode/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/karthikeya12082005/leetcode/tree/master/1075-project-employees-i) |
 | [1158-market-analysis-i](https://github.com/karthikeya12082005/leetcode/tree/master/1158-market-analysis-i) |
 | [1407-top-travellers](https://github.com/karthikeya12082005/leetcode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1587-bank-account-summary-ii) |
