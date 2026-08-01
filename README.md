@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/karthikeya12082005/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karthikeya12082005/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/karthikeya12082005/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/karthikeya12082005/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikeya12082005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/karthikeya12082005/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/karthikeya12082005/leetcode/tree/master/0645-set-mismatch) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karthikeya12082005/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/karthikeya12082005/leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/karthikeya12082005/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/karthikeya12082005/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikeya12082005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/karthikeya12082005/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikeya12082005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/karthikeya12082005/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/karthikeya12082005/leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/karthikeya12082005/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikeya12082005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/karthikeya12082005/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/karthikeya12082005/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
