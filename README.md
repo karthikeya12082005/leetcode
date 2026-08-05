@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karthikeya12082005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/karthikeya12082005/leetcode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karthikeya12082005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/karthikeya12082005/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/karthikeya12082005/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/karthikeya12082005/leetcode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/karthikeya12082005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikeya12082005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karthikeya12082005/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/karthikeya12082005/leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikeya12082005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/karthikeya12082005/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/karthikeya12082005/leetcode/tree/master/0392-is-subsequence) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/karthikeya12082005/leetcode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/karthikeya12082005/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikeya12082005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karthikeya12082005/leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/karthikeya12082005/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
