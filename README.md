@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikeya12082005/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/karthikeya12082005/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikeya12082005/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/karthikeya12082005/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikeya12082005/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/karthikeya12082005/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
