@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/karthikeya12082005/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/karthikeya12082005/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
@@ -345,12 +347,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
