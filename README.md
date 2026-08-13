@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/karthikeya12082005/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0802-find-eventual-safe-states](https://github.com/karthikeya12082005/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikeya12082005/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karthikeya12082005/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/karthikeya12082005/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0802-find-eventual-safe-states](https://github.com/karthikeya12082005/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikeya12082005/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karthikeya12082005/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/karthikeya12082005/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikeya12082005/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karthikeya12082005/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikeya12082005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/karthikeya12082005/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search
 |  |
 | ------- |
@@ -492,4 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthikeya12082005/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/karthikeya12082005/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/karthikeya12082005/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
