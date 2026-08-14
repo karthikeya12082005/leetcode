@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/karthikeya12082005/leetcode/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/karthikeya12082005/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1768-merge-strings-alternately](https://github.com/karthikeya12082005/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthikeya12082005/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikeya12082005/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/karthikeya12082005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/karthikeya12082005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1406-stone-game-iii](https://github.com/karthikeya12082005/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthikeya12082005/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/karthikeya12082005/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1288-remove-covered-intervals](https://github.com/karthikeya12082005/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/karthikeya12082005/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/karthikeya12082005/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/karthikeya12082005/leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthikeya12082005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karthikeya12082005/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthikeya12082005/leetcode/tree/master/0169-majority-element) |
+| [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikeya12082005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
