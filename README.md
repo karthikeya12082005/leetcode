@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/karthikeya12082005/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikeya12082005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/karthikeya12082005/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/karthikeya12082005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/karthikeya12082005/leetcode/tree/master/0046-permutations) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/karthikeya12082005/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikeya12082005/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/karthikeya12082005/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/karthikeya12082005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/karthikeya12082005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/karthikeya12082005/leetcode/tree/master/0169-majority-element) |
