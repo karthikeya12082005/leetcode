@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikeya12082005/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthikeya12082005/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2367-number-of-arithmetic-triplets](https://github.com/karthikeya12082005/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthikeya12082005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikeya12082005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/karthikeya12082005/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1768-merge-strings-alternately](https://github.com/karthikeya12082005/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karthikeya12082005/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/karthikeya12082005/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/karthikeya12082005/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karthikeya12082005/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/karthikeya12082005/leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/karthikeya12082005/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthikeya12082005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karthikeya12082005/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/karthikeya12082005/leetcode/tree/master/1291-sequential-digits) |
+| [2367-number-of-arithmetic-triplets](https://github.com/karthikeya12082005/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/karthikeya12082005/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Monotonic Stack
