@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/karthikeya12082005/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikeya12082005/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
+| [2396-strictly-palindromic-number](https://github.com/karthikeya12082005/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikeya12082005/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/karthikeya12082005/leetcode/tree/master/3099-harshad-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikeya12082005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/karthikeya12082005/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1768-merge-strings-alternately](https://github.com/karthikeya12082005/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karthikeya12082005/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/karthikeya12082005/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karthikeya12082005/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikeya12082005/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -531,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/karthikeya12082005/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/karthikeya12082005/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
