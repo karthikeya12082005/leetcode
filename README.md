@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthikeya12082005/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikeya12082005/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthikeya12082005/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthikeya12082005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikeya12082005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/karthikeya12082005/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/karthikeya12082005/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikeya12082005/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikeya12082005/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/karthikeya12082005/leetcode/tree/master/3099-harshad-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikeya12082005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/karthikeya12082005/leetcode/tree/master/0169-majority-element) |
 | [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
+| [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikeya12082005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karthikeya12082005/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0826-most-profit-assigning-work](https://github.com/karthikeya12082005/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikeya12082005/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karthikeya12082005/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/karthikeya12082005/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/karthikeya12082005/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -493,12 +498,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/karthikeya12082005/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/karthikeya12082005/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/karthikeya12082005/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/karthikeya12082005/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -507,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/karthikeya12082005/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
