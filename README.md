@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/karthikeya12082005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
+| [1386-cinema-seat-allocation](https://github.com/karthikeya12082005/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/karthikeya12082005/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthikeya12082005/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/karthikeya12082005/leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/karthikeya12082005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
+| [1386-cinema-seat-allocation](https://github.com/karthikeya12082005/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2367-number-of-arithmetic-triplets](https://github.com/karthikeya12082005/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthikeya12082005/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karthikeya12082005/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0826-most-profit-assigning-work](https://github.com/karthikeya12082005/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/karthikeya12082005/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/karthikeya12082005/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikeya12082005/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/karthikeya12082005/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/karthikeya12082005/leetcode/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/karthikeya12082005/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/karthikeya12082005/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
