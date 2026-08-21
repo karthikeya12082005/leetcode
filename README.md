@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1768-merge-strings-alternately](https://github.com/karthikeya12082005/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/karthikeya12082005/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthikeya12082005/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikeya12082005/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikeya12082005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/karthikeya12082005/leetcode/tree/master/1260-shift-2d-grid) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/karthikeya12082005/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karthikeya12082005/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikeya12082005/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
