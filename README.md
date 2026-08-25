@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikeya12082005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0374-guess-number-higher-or-lower](https://github.com/karthikeya12082005/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/karthikeya12082005/leetcode/tree/master/0704-binary-search) |
 | [0826-most-profit-assigning-work](https://github.com/karthikeya12082005/leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/karthikeya12082005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -584,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/karthikeya12082005/leetcode/tree/master/0202-happy-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/karthikeya12082005/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
