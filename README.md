@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karthikeya12082005/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/karthikeya12082005/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/karthikeya12082005/leetcode/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/karthikeya12082005/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/karthikeya12082005/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikeya12082005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
