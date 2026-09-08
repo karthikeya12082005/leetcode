@@ -1,19 +1,14 @@
-class Solution(object):
-    def deleteAndEarn(self, nums):
-        from collections import Counter
-        count = Counter(nums)
-        unique_nums = sorted(count.keys())
-        prev = None
-        take, skip = 0, 0
-
-        for num in unique_nums:
-            max_points = max(skip, take)
-            if prev == num - 1:
-                take = num * count[num] + skip
-                skip = max_points
-            else:
-                take = num * count[num] + max_points
-                skip = max_points
-            prev = num
-
-        return max(take, skip)
+class Solution:
+    def deleteAndEarn(self, nums: List[int]) -> int:
+        m = max(nums)
+        points = [0] * (m + 1)
+        for x in nums:
+            points[x] += x
+        dp = [0] * (m + 1)
+        for i in range(1, m + 1):
+            take = points[i]
+            if i >= 2:
+                take += dp[i - 2]
+            nottake = dp[i - 1]
+            dp[i] = max(take, nottake)
+        return dp[m]
