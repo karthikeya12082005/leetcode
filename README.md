@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/karthikeya12082005/leetcode/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0802-find-eventual-safe-states](https://github.com/karthikeya12082005/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karthikeya12082005/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikeya12082005/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karthikeya12082005/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karthikeya12082005/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikeya12082005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/karthikeya12082005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karthikeya12082005/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karthikeya12082005/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting Sort
 |  |
 | ------- |
