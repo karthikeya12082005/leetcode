@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/karthikeya12082005/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/karthikeya12082005/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/karthikeya12082005/leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/karthikeya12082005/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/karthikeya12082005/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karthikeya12082005/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/karthikeya12082005/leetcode/tree/master/0200-number-of-islands) |
