@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/karthikeya12082005/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/karthikeya12082005/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikeya12082005/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/karthikeya12082005/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/karthikeya12082005/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karthikeya12082005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/karthikeya12082005/leetcode/tree/master/0189-rotate-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/karthikeya12082005/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/karthikeya12082005/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/karthikeya12082005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karthikeya12082005/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/karthikeya12082005/leetcode/tree/master/0085-maximal-rectangle) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/karthikeya12082005/leetcode/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karthikeya12082005/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/karthikeya12082005/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikeya12082005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
