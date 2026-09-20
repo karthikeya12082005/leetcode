@@ -686,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/karthikeya12082005/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/karthikeya12082005/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/karthikeya12082005/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
