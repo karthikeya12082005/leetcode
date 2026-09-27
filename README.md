@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/karthikeya12082005/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/karthikeya12082005/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1366-rank-teams-by-votes](https://github.com/karthikeya12082005/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karthikeya12082005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/karthikeya12082005/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/karthikeya12082005/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/karthikeya12082005/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/karthikeya12082005/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karthikeya12082005/leetcode/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/karthikeya12082005/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Nim Game
 |  |
 | ------- |
