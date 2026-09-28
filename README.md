@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/karthikeya12082005/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikeya12082005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/karthikeya12082005/leetcode/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/karthikeya12082005/leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/karthikeya12082005/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/karthikeya12082005/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/karthikeya12082005/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/karthikeya12082005/leetcode/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthikeya12082005/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/karthikeya12082005/leetcode/tree/master/1137-n-th-tribonacci-number) |
