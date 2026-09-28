@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karthikeya12082005/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/karthikeya12082005/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/karthikeya12082005/leetcode/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/karthikeya12082005/leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/karthikeya12082005/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/karthikeya12082005/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/karthikeya12082005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthikeya12082005/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/karthikeya12082005/leetcode/tree/master/0796-rotate-string) |
 ## Minimax
 |  |
 | ------- |
